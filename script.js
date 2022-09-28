@@ -99,4 +99,4 @@ document.getElementById('next').addEventListener('click', (event) => {
   img.push(img[0]);
   element_pic3.setAttribute("src", img.shift());
 
-
+});
